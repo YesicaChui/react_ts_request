@@ -9,7 +9,7 @@ const App = () => {
   // cuando el valor de uno de sus estados cambian
   // cuando el compoennte padre llaama a la funcion re-render
   useEffect(() => {
-    console.log('useeffect del app');
+    console.log('useeffect del app cambiado hoy martes');
   }, []);
 
   return (
